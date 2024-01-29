@@ -1,0 +1,6 @@
+[submodule "mr_manipulator_ros"]
+	path = mr_manipulator_ros
+	url = https://github.com/jakkkobo/mr_manipulator_ros.git
+[submodule "rm_manipulator_esp32"]
+	path = rm_manipulator_esp32
+	url = https://github.com/jakkkobo/rm_manipulator_esp32.git
