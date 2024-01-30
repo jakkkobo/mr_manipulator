@@ -12,7 +12,7 @@ A ROS 1 package was developed to represent the URDF model of the robot and clone
 
 ## Architecture
 
-//TODO
+![](https://github.com/jakkkobo/mr_manipulator/blob/master/images/arquitetura_full.png)
 
 ## Control board schematic
 
