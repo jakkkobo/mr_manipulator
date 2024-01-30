@@ -18,6 +18,8 @@ A ROS 1 package was developed to represent the URDF model of the robot and clone
 
 ![](https://github.com/jakkkobo/mr_manipulator/blob/master/images/circuit_schematic.png)
 
+### Check the halfduplex communication for the servo motors here:[halfduplex communication](https://github.com/jakkkobo/mr_manipulator/blob/master/Halfduplex_protocol.pdf)
+
 ## Results
 x5 speed
 
